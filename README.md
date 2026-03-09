@@ -1,4 +1,13 @@
-## Hi there 👋
+## Matheus William
+
+I'm a backend developer focused on Java and Spring Boot.
+Currently studying Software Engineering and building backend projects applying POO, REST APIs and layered architecture.
+
+I enjoy solving problems, building clean code and constantly improving my development skills.
+
+## Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,git)](https://skillicons.dev)
 
 <!--
 **MatheusOleniki/MatheusOleniki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
